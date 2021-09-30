@@ -1,0 +1,23 @@
+table, th, tr{
+    border:2px solid white;
+    border-collapse:separate;
+    margin: auto;
+    font-size: medium;
+}
+th,  td {
+    background-color:cornflowerblue;
+}
+td {
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: bold;
+    font-size: small;
+}
+
+
+h3{
+    margin-left: 610px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow Bold', Arial, sans-serif;
+}
+body{
+    background-image: url('images/image00001(1).jpg');
+}
